@@ -1,2 +1,2 @@
 # khickit
-Project built on Codeigniter, JQuery, MySQL
+Project's some files - built on Codeigniter, JQuery, MySQL
